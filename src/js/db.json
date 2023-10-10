@@ -1,0 +1,86 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "Type" : "Snack",
+            "Name" : "Seeds of Change Organic Quinoa, Brown, & Red Rice",
+            "Owner" : "NestFood",
+            "price" : "28.85",
+            "img" : "src/img/productList/product-1-1.jpg"
+        },
+        {
+            "id" : 2,
+            "Type" : "Hodo Foods",
+            "Name" : "All Natural Italian-Style Chicken Meatballs",
+            "Owner" : "Stouffer",
+            "price" : "52.85",
+            "img" : "src/img/productList/product-2-1.jpg"
+        },
+        {
+            "id" : 3,
+            "Type" : "Snack",
+            "Name" : "Angie’s Boomchickapop Sweet & Salty Kettle Corn",
+            "Owner" : "StarKist",
+            "price" : "48.85",
+            "img" : "src/img/productList/product-3-1.jpg"
+        },
+        {
+            "id" : 4,
+            "Type" : "Vegetables",
+            "Name" : "Foster Farms Takeout Crispy Classic Buffalo Wings",
+            "Owner" : "NestFood",
+            "price" : "17.85",
+            "img" : "src/img/productList/product-4-1.jpg"
+        },
+        {
+            "id" : 5,
+            "Type" : "Pet Foods",
+            "Name" : "Blue Diamond Almonds Lightly Salted Vegetables",
+            "Owner" : "NestFood",
+            "price" : "23.85",
+            "img" : "src/img/productList/product-5-1.jpg"
+        },
+        {
+            "id" : 6,
+            "Type" : "Hodo Foods",
+            "Name" : "Chobani Complete Vanilla Greek Yogurt",
+            "Owner" : "NestFood",
+            "price" : "54.85",
+            "img" : "src/img/productList/product-6-1.jpg"
+        },
+        {
+            "id" : 7,
+            "Type" : "Meats",
+            "Name" : "Canada Dry Ginger Ale – 2 L Bottle - 200ml - 400g",
+            "Owner" : "NestFood",
+            "price" : "32.85",
+            "img" : "src/img/productList/product-7-1.jpg"
+        },
+        {
+            "id" : 8,
+            "Type" : "Snack",
+            "Name" : "Encore Seafoods Stuffed Alaskan Salmon",
+            "Owner" : "NestFood",
+            "price" : "35.85",
+            "img" : "src/img/productList/product-8-1.jpg"
+        },
+        {
+            "id" : 9,
+            "Type" : "Coffes",
+            "Name" : "Gorton’s Beer Battered Fish Fillets with soft paper",
+            "Owner" : "Old El Paso",
+            "price" : "17.85",
+            "img" : "src/img/productList/product-9-1.jpg"
+        },
+        {
+            "id" : 10,
+            "Type" : "Cream",
+            "Name" : "Haagen-Dazs Caramel Cone Ice Cream Ketchup",
+            "Owner" : "Tyson",
+            "price" : "22.85",
+            "img" : "src/img/productList/product-10-1.jpg"
+        }
+        
+
+    ]
+}
